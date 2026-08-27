@@ -150,6 +150,11 @@ ML-Resume-Analyzer/
 
 The exact structure may vary depending on the final version of the project.
 
+## UI
+
+<img width="1132" height="742" alt="image" src="https://github.com/user-attachments/assets/eeb0d065-29d0-4686-bce0-9db8a69a4ef8" />
+
+
 ## Installation
 
 Clone the repository:
