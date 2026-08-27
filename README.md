@@ -4,6 +4,10 @@ A machine learning-based resume screening project that predicts whether a candid
 
 The project covers the complete machine learning workflow, from data exploration and preprocessing to model comparison, hyperparameter tuning, evaluation, fairness analysis, candidate scoring, and deployment through Streamlit.
 
+## link 
+
+[https://tayibaabdulrasool-ml-resume-analyzer-app-vxq5rs.streamlit.app/](url)
+
 ## Project Overview
 
 The **ML Resume Analyzer** uses candidate information such as years of experience, skills match, education level, projects, resume length, and GitHub activity to predict the `shortlisted` outcome.
@@ -378,8 +382,4 @@ This project is developed for educational and demonstration purposes. The model 
 **Tayiba Abdul Rasool**
 
 Software Engineering Student | Machine Learning | Data Analytics | Generative AI
-
-## UI
-
-<img width="1132" height="742" alt="image" src="https://github.com/user-attachments/assets/eeb0d065-29d0-4686-bce0-9db8a69a4ef8" />
 
