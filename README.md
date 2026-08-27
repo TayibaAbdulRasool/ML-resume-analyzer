@@ -4,9 +4,9 @@ A machine learning-based resume screening project that predicts whether a candid
 
 The project covers the complete machine learning workflow, from data exploration and preprocessing to model comparison, hyperparameter tuning, evaluation, fairness analysis, candidate scoring, and deployment through Streamlit.
 
-## Link 
+## Live Application
 
-[https://tayibaabdulrasool-ml-resume-analyzer-app-vxq5rs.streamlit.app/](url)
+[ML Resume Analyzer — Streamlit App](https://tayibaabdulrasool-ml-resume-analyzer-app-vxq5rs.streamlit.app/)
 
 ## Project Overview
 
