@@ -6,7 +6,7 @@ The project covers the complete machine learning workflow, from data exploration
 
 ## Live Application
 
-[ML Resume Analyzer — Streamlit App](https://tayibaabdulrasool-ml-resume-analyzer-app-vxq5rs.streamlit.app/)
+Streamlit Application:[ML Resume Analyzer — Streamlit App](https://tayibaabdulrasool-ml-resume-analyzer-app-vxq5rs.streamlit.app/)
 
 ## Project Overview
 
